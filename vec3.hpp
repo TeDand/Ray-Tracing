@@ -6,6 +6,7 @@
 
 using std::sqrt;
 
+// class that stores a three dimensional point (or colour)
 class vec3 {
     public:
         vec3() : e{0,0,0} {}

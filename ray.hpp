@@ -3,6 +3,7 @@
 
 #include "vec3.hpp"
 
+// class for a ray that obeys the formula P(t) = origin + t*direction
 class ray {
     public:
         ray() {}
